@@ -1,6 +1,6 @@
 ## 📊 Key Findings & Business Insights
 
-<img width="1200" height="720" alt="dashboard" src="https://github.com/user-attachments/assets/5173cdcb-b703-4bfc-a311-4b04754358d9" />
+<img width="1000" height="720" alt="dashboard" src="https://github.com/user-attachments/assets/5173cdcb-b703-4bfc-a311-4b04754358d9" />
 
 ### 🔹 1. Category Performance
 
